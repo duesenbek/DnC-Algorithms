@@ -132,6 +132,7 @@ mvn test -Dtest=ClosestPairTest
 ```
 # 🔧 Development\
 ## 📦 Project Structure
+```
 main/
 ├── java/com/dandalgorithms/
 │   ├── algorithms/
@@ -157,7 +158,7 @@ test/
         ├── FullBenchmark.java      
         ├── MergeSortBenchmark.java   
         └── QuickSortBenchmark.java   
-        
+ ```       
 ### Clone and setup
 ```bash
 git clone https://github.com/duesenbek/DnC-Algorithms
